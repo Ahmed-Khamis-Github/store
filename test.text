@@ -1,0 +1,6 @@
+ id
+ name // string max 100 varchar
+ desc // string text
+ price numeric double
+ img // string max : 100
+ created_at time stamp 
